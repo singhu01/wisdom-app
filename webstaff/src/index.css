@@ -1,0 +1,136 @@
+body {
+  margin: 5px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+table {
+	text-align: left;
+}
+td {
+	vertical-align: top;
+	padding-top: 20px;
+}
+
+label.data_descriptor {
+  font-weight: bold;
+}
+label.response {
+	padding-left: 10px;
+}
+
+td.question {
+	padding-right: 30px;
+}
+
+.page_content {
+  text-align: left;
+}
+
+.section_heading {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  font-weight: bold;
+}
+
+.sub_element {
+  padding-left: 15px;
+}
+
+.title {
+  font-size: 1.5em;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+
+.visitorBodyContent {
+	/*-moz-box-shadow:inset 0px 1px 0px 0px #dcecfb;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #dcecfb;
+	box-shadow:inset 0px 1px 0px 0px #dcecfb;*/
+	
+	/*background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #bddbfa), color-stop(1, #BDDBDA) );
+	background:-moz-linear-gradient( center top, #bddbfa 5%, #BDDBDA 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bddbfa', endColorstr='#BDDBDA');*/
+
+	/*background:-moz-linear-gradient( center top, #BDDBDA 30%, #265f51 100% ); /* for firefox */
+	/*background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #BDDBDA), color-stop(1, #265f51) );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#BDDBDA', endColorstr='#265f51');*/
+
+	/*background-image: url("../images/tile-blue.png");
+    background-repeat: repeat;*/
+
+	/*background-color:#BDDBDA; */
+	/*-moz-border-radius:9px;
+	-webkit-border-radius:9px;
+	border-radius:9px;*/
+
+	/*border:3px solid #84bbf3;*/ 
+
+ 	/*border:3px solid #f285b2;*/
+
+	color:#000000;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 30px;
+	font-weight: normal;
+	padding: 0px 8px;
+	text-decoration: none;
+	
+	/*height:578px;
+	width:750px;*/
+	height:630px;
+	/*width:1000px;*/
+
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.midVisitorBodyContent	{
+	background-image: url("tile-blue.png");
+    background-repeat: repeat;
+
+	/*background-color:#BDDBDA; */
+	/*-moz-border-radius:9px;
+	-webkit-border-radius:9px;
+	border-radius:9px;*/
+
+	/*border:3px solid #84bbf3;*/ 
+
+ 	/*border:3px solid #f285b2;*/
+
+	color:#FFFFFF;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 30px;
+	font-weight: normal;
+	padding: 0px 8px;
+	text-decoration: none;
+	
+/*
+	height:578px;
+	width:750px;
+	height:350px;
+	width:1000px;
+*/
+
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.w-button {
+	background-color: pink;
+}
+#get-started-button{
+  font-size: 45px;
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}

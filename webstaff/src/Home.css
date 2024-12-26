@@ -1,0 +1,19 @@
+.p-datatable .p-datatable-thead > tr > th {
+    background-color: #1A1756;
+    color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    font-weight: 500;
+    border-bottom: 2px solid #ddd; 
+    transition: color 0.3s ease; 
+  }
+
+
+  .p-datatable .p-datatable-thead > tr > th:hover {
+    color: #131211; /* Change this to your desired hover color */
+}
+
+.p-datatable .p-column-header:hover .p-sortable-header,
+.p-datatable .p-column-header:hover .p-column-filter {
+    color: #131211; /* Change this to your desired hover color */
+}
